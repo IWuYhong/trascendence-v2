@@ -224,8 +224,8 @@ a:focus {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  left: 2%;
-  z-index: 999;
+  left: 25%;
+  z-index: 99;
 }
 
 .slider_section .carousel_btn-container .carousel-control-prev,
